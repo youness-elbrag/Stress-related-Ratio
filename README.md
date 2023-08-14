@@ -42,7 +42,7 @@ $where:
 
 Hooke's Law is a fundamental concept for comprehending the initial behavior of materials within their elastic range. Beyond this point, materials undergo plastic deformation and might not return to their original state upon unloading.
 
-## Prediction Point STRAIN uaing polynomial Regression 
+## Prediction Point STRAIN using polynomial Regression 
 
 The results are visualized by plotting the original stress-strain data points and the polynomial fit. The predicted point is marked on the graph using a red marker. Additionally, the predicted stress value at the next deformable point is printed.
 
