@@ -27,7 +27,7 @@ $\[ F = \sigma_y \times A \]$
 
 The interconnection between stress and strain is fundamental to grasping how materials perform under load. This relationship is conventionally depicted using a **stress-strain diagram**, a graphical representation of a material's response to escalating stress. The stress-strain diagram provides insights into a material's elastic behavior, yield point, plastic deformation, and ultimate failure.
 
-![Stress-Strain Diagram](output.png)
+![Stress-Strain Diagram](Output.png)
 
 ## Hooke's Law
 
