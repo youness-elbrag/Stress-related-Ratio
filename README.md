@@ -48,5 +48,11 @@ The results are visualized by plotting the original stress-strain data points an
 
 ![Predicting Deformable Point using Polynomial Regression](example-polynomial-regression-prediction.png)
 
+### Forecasting
+
+After fitting the ARIMA model to the stress-strain data, it can be used to forecast future stress values. The model predicts the next stress value based on the past observations and the forecast errors.
+
+![ARIMA Forecasting of Stress-Strain Diagram](arima-forecast.png)
+
 
 
